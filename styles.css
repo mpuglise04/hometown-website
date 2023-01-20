@@ -1,12 +1,3 @@
-/**
-Palette: https://scrimba.com/links/hometown-palette
-RED: #E63946
-LIGHT: #F1FAEE
-AQUA: #A8DADC
-LIGHT BLUE: #457B9D
-DARK BLUE: #1D3557
-
-*/
 body {
     margin: 0;
     text-align: center;
@@ -60,42 +51,27 @@ body {
 
 .activities{
     background: #F1FAEE;
-    padding-top: 34px;
-    padding-bottom: 34px;
+    padding-top: 37px;
+    padding-bottom: 40px;
     height: 347px;
 }
 
 .places{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-around;
     margin-left: 34px;
     margin-right: 34px;
     text-align: center;
-    
 }
 
-.block1 {
+.block {
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
-    width: 103px;
+    align-items: center;
+    margin: 0 7px;
 }
 
-.block2 {
-    
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    width: 103px;
-}
-
-.block3 {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    width: 103px;
-}
 
 .statue {
     border-radius: 50%;
@@ -138,9 +114,8 @@ h3 {
     font-size: 18px;
     line-height: 22px;
     text-align: center;
-    margin-top: 25px;
+    margin-top: 10px;
     height: 54px;
-    
     color: #1D3557
 }
 
