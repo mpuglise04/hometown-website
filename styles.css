@@ -100,14 +100,14 @@ h3 {
     text-align: center;
 }
 
-#middletitle{
+#middletitle {
     color: #1D3557;
     font-family: 'Arial';
     font-style: normal;
     text-align: center;
 }
 
-.traveltext{
+.traveltext {
     font-family: 'Arial';
     font-style: normal;
     font-weight: 400;
@@ -136,13 +136,13 @@ h3 {
     justify-content: space-around;
 }
 
-#me{
+#me {
     width: 180px;
     height: 248.67px;
     border-radius: 10px;
 }
 
-.bio{
+.bio {
     width: 175px;
     padding-left: 7px;
     padding-left: 7px;
